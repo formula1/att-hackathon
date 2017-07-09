@@ -1,0 +1,41 @@
+{
+  "name": "att-hackathon-8-7-2017",
+  "version": "1.0.0",
+  "description": "- Train Watson to Recognize   - Wonder Woman Tiara / Poster - Speech to Text   - Checkout the synopsis - Associate Wonder Woman tiara to the movie - Retrieve Location from Phone - Display   - Ticket Information related to location and movie   - tweet about the video saying it has great content related to the movie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/formula1/att-hackathon-8-7-2017.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/formula1/att-hackathon-8-7-2017/issues"
+  },
+  "homepage": "https://github.com/formula1/att-hackathon-8-7-2017#readme",
+  "dependencies": {
+    "archiver": "^2.0.0",
+    "body-parser": "^1.17.2",
+    "concat-stream": "^1.6.0",
+    "express": "^4.15.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^2.2.0",
+    "formidable": "^1.1.1",
+    "imagemin": "^5.3.1",
+    "imagemin-pngquant": "^5.0.1",
+    "multer": "^1.3.0",
+    "promisify": "0.0.3",
+    "rimraf": "^2.6.1",
+    "tar-fs": "^1.15.3",
+    "tmp": "0.0.31",
+    "watson-developer-cloud": "^2.34.0",
+    "zip-folder": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.1.1",
+    "eslint-plugin-react": "^7.1.0"
+  }
+}

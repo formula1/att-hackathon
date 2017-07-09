@@ -1,0 +1,22 @@
+version: '2'
+services:
+  ffmpeg-service:
+    build: ./services/ffmpeg
+    volumes:
+     - ./services/ffmpeg:/service
+     - ./node_modules:/service/node_modules
+  get-tags-for-video:
+    build: ./services/get-tags-for-video
+    depends_on:
+      - ffmpeg-service
+    ports:
+      - 8081:80
+    volumes:
+     - ./services/get-tags-for-video:/service
+     - ./node_modules:/service/node_modules
+  http:
+    image: httpd
+    ports:
+      - 8080:80
+    volumes:
+      - ./services/static-server:/usr/local/apache2/htdocs/
