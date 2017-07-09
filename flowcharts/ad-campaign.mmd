@@ -1,0 +1,25 @@
+graph TD;
+    adminStart((Admin))
+    adminInput[Feed Ad Campaign Data]
+    adminText[Extract Synopsis from Text]
+    adminTExtract[Extract entites through Natural Understanding]
+    adminTIndex[Store data in Retrieve and Rank]
+
+    adminVRetreive[Retrieve Images About data's Title]
+    adminVTrain[Train Watson related to Title]
+    adminVRetreiveItems[Retrieve Images About data's ad collector items]
+    adminVTrainItems[Train Watson related to ad worthy items]
+
+    adminStart-->adminInput;
+    adminInput-- Ad Campaign -->adminText
+    adminText-- Text -->adminTExtract
+    adminInput-- Ad Campaign -->adminTIndex
+    adminTExtract-- Entities -->adminTIndex
+    adminTExtract-- Entities -->adminVTrain
+
+    adminInput-- Ad Campaign -->adminVRetreive
+    adminVRetreive-- Images -->adminVTrain
+
+    adminInput-- Ad Campaign -->adminVRetreiveItems
+    adminVRetreiveItems-- Images -->adminVTrain
+    adminVRetreiveItems-- Images -->adminVTrainItems

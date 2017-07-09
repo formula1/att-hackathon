@@ -1,0 +1,13 @@
+graph TD;
+    start((Viewer))
+    viewer[views video]
+    retrieveAndRank[Video Meta is retrieved From Retrieve and Rank]
+    viewerAdCampaign[viewer recieves targeted advertising]
+    viewerAdCollectorItems[viewer can buy collector items]
+    viewerAdShare[viewer can share related to ad campaign hashtag]
+
+    start-->viewer
+    viewer-->viewerAdCampaign
+    viewer-->retrieveAndRank
+    retrieveAndRank-- movie -->viewerAdCampaign
+    retrieveAndRank-- movie -->viewerAdCampaign
