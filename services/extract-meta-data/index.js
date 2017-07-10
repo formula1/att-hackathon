@@ -11,6 +11,7 @@ var audioToKeywords = require("./audio-to-keywords");
 
 var { HTTP_PORT, INPUT_DIRECTORY, } = process.env;
 
+if(!fs.existsSync(INPUT_DIRECTORY)) fs.mkdirSync(INPUT_DIRECTORY);
 
 var express = require("express");
 var { Router } = express;

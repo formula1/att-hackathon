@@ -12,6 +12,9 @@ var imagemin = require("imagemin");
 var imageminPngquant = require("imagemin-pngquant");
 var archiver = require("archiver");
 
+if(!fs.existsSync(INPUT_DIRECTORY)) fs.mkdirSync(INPUT_DIRECTORY);
+if(!fs.existsSync(OUTPUT_DIRECTORY)) fs.mkdirSync(OUTPUT_DIRECTORY);
+
 var { HTTP_PORT, INPUT_DIRECTORY, OUTPUT_DIRECTORY } = process.env;
 
 function extractAudio(inputfile) {
