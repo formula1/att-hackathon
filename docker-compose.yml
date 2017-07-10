@@ -5,14 +5,14 @@ services:
     volumes:
      - ./services/ffmpeg:/service
      - ./node_modules:/service/node_modules
-  get-tags-for-video:
-    build: ./services/get-tags-for-video
+  extract-meta-data:
+    build: ./services/extract-meta-data
     depends_on:
       - ffmpeg-service
     ports:
       - 8081:80
     volumes:
-     - ./services/get-tags-for-video:/service
+     - ./services/extract-meta-data:/service
      - ./node_modules:/service/node_modules
   http:
     image: httpd

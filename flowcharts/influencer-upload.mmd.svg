@@ -1,0 +1,271 @@
+<svg id="mermaidChart545" xmlns="http://www.w3.org/2000/svg" height="100%" viewBox="0 0 743.0500030517578 1202.6000061035156" style="max-width:743.0500030517578px;"><style type="text/css" title="mermaid-svg-internal-css">/*  */
+#mermaidChart542 .node&gt;rect { ; }
+#mermaidChart542 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart542 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart542 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart543 .node&gt;rect { ; }
+#mermaidChart543 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart543 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart543 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart545 .node&gt;rect { ; }
+#mermaidChart545 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart545 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart545 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart542 .node&gt;rect { ; }
+#mermaidChart542 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart542 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart542 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart543 .node&gt;rect { ; }
+#mermaidChart543 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart543 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart543 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart545 .node&gt;rect { ; }
+#mermaidChart545 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart545 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart545 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart542 .node&gt;rect { ; }
+#mermaidChart542 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart542 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart542 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart543 .node&gt;rect { ; }
+#mermaidChart543 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart543 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart543 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart545 .node&gt;rect { ; }
+#mermaidChart545 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart545 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart545 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart542 .node&gt;rect { ; }
+#mermaidChart542 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart542 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart542 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart543 .node&gt;rect { ; }
+#mermaidChart543 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart543 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart543 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart545 .node&gt;rect { ; }
+#mermaidChart545 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart545 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart545 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart542 .node&gt;rect { ; }
+#mermaidChart542 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart542 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart542 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart543 .node&gt;rect { ; }
+#mermaidChart543 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart543 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart543 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart545 .node&gt;rect { ; }
+#mermaidChart545 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart545 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart545 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart542 .node&gt;rect { ; }
+#mermaidChart542 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart542 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart542 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart543 .node&gt;rect { ; }
+#mermaidChart543 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart543 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart543 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart545 .node&gt;rect { ; }
+#mermaidChart545 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart545 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart545 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart542 .node&gt;rect { ; }
+#mermaidChart542 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart542 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart542 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart543 .node&gt;rect { ; }
+#mermaidChart543 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart543 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart543 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart545 .node&gt;rect { ; }
+#mermaidChart545 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart545 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart545 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart542 .node&gt;rect { ; }
+#mermaidChart542 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart542 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart542 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart543 .node&gt;rect { ; }
+#mermaidChart543 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart543 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart543 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart545 .node&gt;rect { ; }
+#mermaidChart545 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart545 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart545 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart542 .node&gt;rect { ; }
+#mermaidChart542 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart542 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart542 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart543 .node&gt;rect { ; }
+#mermaidChart543 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart543 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart543 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+/*  */
+#mermaidChart545 .node&gt;rect { ; }
+#mermaidChart545 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart545 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart545 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: border-box;}
+ .node rect,  .node circle,  .node polygon { fill: rgb(0, 132, 202); stroke: rgb(68, 71, 149); stroke-width: 1px;}
+ .edgePath .path { stroke: rgb(51, 51, 51);}
+ .label { color: rgb(0, 0, 0);}
+/*  */
+</style><g><g class="output"><g class="clusters"/><g class="edgePaths"><g class="edgePath" style="opacity: 1;"><path class="path" d="M334.3000030517578,119L334.3000030517578,144L334.3000030517578,169" marker-end="url(#arrowhead22246)" style="fill:none"/><defs><marker id="arrowhead22246" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"/></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M270.8000030517578,211.39645390070922L158.0500030517578,248.5L158.0500030517578,306.5L158.0500030517578,364.5L158.0500030517578,401" marker-end="url(#arrowhead22247)" style="fill:none"/><defs><marker id="arrowhead22247" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"/></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M158.0500030517578,444L158.0500030517578,480.5L158.0500030517578,517" marker-end="url(#arrowhead22248)" style="fill:none"/><defs><marker id="arrowhead22248" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"/></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M397.8000030517578,211.39645390070922L510.5500030517578,248.5L510.5500030517578,285" marker-end="url(#arrowhead22249)" style="fill:none"/><defs><marker id="arrowhead22249" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"/></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M510.5500030517578,328L510.5500030517578,364.5L510.5500030517578,401" marker-end="url(#arrowhead22250)" style="fill:none"/><defs><marker id="arrowhead22250" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"/></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M510.5500030517578,444L510.5500030517578,480.5L510.5500030517578,517" marker-end="url(#arrowhead22251)" style="fill:none"/><defs><marker id="arrowhead22251" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"/></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M203.4594858103785,560L280.5500030517578,596.5L391.4659513276199,633" marker-end="url(#arrowhead22252)" style="fill:none"/><defs><marker id="arrowhead22252" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"/></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M510.5500030517578,560L510.5500030517578,596.5L476.7245720172751,633" marker-end="url(#arrowhead22253)" style="fill:none"/><defs><marker id="arrowhead22253" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"/></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M148.87543408624057,560L133.3000030517578,596.5L133.3000030517578,654.5L133.3000030517578,712.5L145.3760893576237,773.4239106423763" marker-end="url(#arrowhead22254)" style="fill:none"/><defs><marker id="arrowhead22254" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"/></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M395.45086512072334,676L291.3000030517578,712.5L228.52027536908756,808.7202753690874" marker-end="url(#arrowhead22255)" style="fill:none"/><defs><marker id="arrowhead22255" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"/></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M169.30000305175784,1047.0999969482418L168.8000030517578,1083.1000061035156L272.95086512072334,1119.6000061035156" marker-end="url(#arrowhead22256)" style="fill:none"/><defs><marker id="arrowhead22256" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"/></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M469.9594858103785,676L492.3000030517578,712.5L492.3000030517578,897.8000030517578L492.3000030517578,1083.1000061035156L392.8689685689992,1119.6000061035156" marker-end="url(#arrowhead22257)" style="fill:none"/><defs><marker id="arrowhead22257" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"/></marker></defs></g></g><g class="edgeLabels"><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel" transform="translate(158.0500030517578,306.5)" style="opacity: 1;"><g transform="translate(-22.5,-11.5)" class="label"><foreignObject width="45" height="23"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Video</span></div></foreignObject></g></g><g class="edgeLabel" transform="translate(158.0500030517578,480.5)" style="opacity: 1;"><g transform="translate(-27.5,-11.5)" class="label"><foreignObject width="55" height="23"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Images</span></div></foreignObject></g></g><g class="edgeLabel" transform="translate(510.5500030517578,248.5)" style="opacity: 1;"><g transform="translate(-22.5,-11.5)" class="label"><foreignObject width="45" height="23"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Video</span></div></foreignObject></g></g><g class="edgeLabel" transform="translate(510.5500030517578,364.5)" style="opacity: 1;"><g transform="translate(-22.5,-11.5)" class="label"><foreignObject width="45" height="23"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Audio</span></div></foreignObject></g></g><g class="edgeLabel" transform="translate(510.5500030517578,480.5)" style="opacity: 1;"><g transform="translate(-17,-11.5)" class="label"><foreignObject width="34" height="23"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Text</span></div></foreignObject></g></g><g class="edgeLabel" transform="translate(280.5500030517578,596.5)" style="opacity: 1;"><g transform="translate(-29.5,-11.5)" class="label"><foreignObject width="59" height="23"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Entities</span></div></foreignObject></g></g><g class="edgeLabel" transform="translate(510.5500030517578,596.5)" style="opacity: 1;"><g transform="translate(-29.5,-11.5)" class="label"><foreignObject width="59" height="23"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Entities</span></div></foreignObject></g></g><g class="edgeLabel" transform="translate(133.3000030517578,654.5)" style="opacity: 1;"><g transform="translate(-17.5,-11.5)" class="label"><foreignObject width="35" height="23"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Tags</span></div></foreignObject></g></g><g class="edgeLabel" transform="translate(291.3000030517578,712.5)" style="opacity: 1;"><g transform="translate(-51,-11.5)" class="label"><foreignObject width="102" height="23"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Ad Campaign</span></div></foreignObject></g></g><g class="edgeLabel" transform="translate(168.8000030517578,1083.1000061035156)" style="opacity: 1;"><g transform="translate(-58.5,-11.5)" class="label"><foreignObject width="117" height="23"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Collector Items</span></div></foreignObject></g></g><g class="edgeLabel" transform="translate(492.3000030517578,897.8000030517578)" style="opacity: 1;"><g transform="translate(-51,-11.5)" class="label"><foreignObject width="102" height="23"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Ad Campaign</span></div></foreignObject></g></g></g><g class="nodes"><g class="node" id="influStart" transform="translate(334.3000030517578,69.5)" style="opacity: 1;"><circle x="-49.5" y="-21.5" r="49.5"/><g class="label" transform="translate(0,0)"><g transform="translate(-39.5,-11.5)"><foreignObject width="79" height="23"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Influencer</div></foreignObject></g></g></g><g class="node" id="influInput" transform="translate(334.3000030517578,190.5)" style="opacity: 1;"><rect rx="0" ry="0" x="-63.5" y="-21.5" width="127" height="43"/><g class="label" transform="translate(0,0)"><g transform="translate(-53.5,-11.5)"><foreignObject width="107" height="23"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">uploads video</div></foreignObject></g></g></g><g class="node" id="influAudio" transform="translate(510.5500030517578,306.5)" style="opacity: 1;"><rect rx="0" ry="0" x="-105" y="-21.5" width="210" height="43"/><g class="label" transform="translate(0,0)"><g transform="translate(-95,-11.5)"><foreignObject width="190" height="23"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">extract audio from video</div></foreignObject></g></g></g><g class="node" id="influAText" transform="translate(510.5500030517578,422.5)" style="opacity: 1;"><rect rx="0" ry="0" x="-141" y="-21.5" width="282" height="43"/><g class="label" transform="translate(0,0)"><g transform="translate(-131,-11.5)"><foreignObject width="262" height="23"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">pass audio through speech to text</div></foreignObject></g></g></g><g class="node" id="influATExtract" transform="translate(510.5500030517578,538.5)" style="opacity: 1;"><rect rx="0" ry="0" x="-192.5" y="-21.5" width="385" height="43"/><g class="label" transform="translate(0,0)"><g transform="translate(-182.5,-11.5)"><foreignObject width="365" height="23"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Extract entities through Natural Understanding</div></foreignObject></g></g></g><g class="node" id="influVExtract" transform="translate(158.0500030517578,422.5)" style="opacity: 1;"><rect rx="0" ry="0" x="-111" y="-21.5" width="222" height="43"/><g class="label" transform="translate(0,0)"><g transform="translate(-101,-11.5)"><foreignObject width="202" height="23"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">extract images from video</div></foreignObject></g></g></g><g class="node" id="influVTag" transform="translate(158.0500030517578,538.5)" style="opacity: 1;"><rect rx="0" ry="0" x="-110" y="-21.5" width="220" height="43"/><g class="label" transform="translate(0,0)"><g transform="translate(-100,-11.5)"><foreignObject width="200" height="23"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">retrieve tags from watson</div></foreignObject></g></g></g><g class="node" id="influATRetrieve" transform="translate(456.8000030517578,654.5)" style="opacity: 1;"><rect rx="0" ry="0" x="-192.5" y="-21.5" width="385" height="43"/><g class="label" transform="translate(0,0)"><g transform="translate(-182.5,-11.5)"><foreignObject width="365" height="23"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Retrieve and Rank Campaigns based on Entities</div></foreignObject></g></g></g><g class="node" id="influAdItemsFilter" transform="translate(168.8000030517578,897.8000030517578)" style="opacity: 1;"><polygon points="148.8,0 297.6,-148.8 148.8,-297.6 0,-148.8" rx="5" ry="5" transform="translate(-148.8,148.8)"/><g class="label" transform="translate(0,0)"><g transform="translate(-154.5,-11.5)"><foreignObject width="309" height="23"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Keep Ad Collector Items that are tagged</div></foreignObject></g></g></g><g class="node" id="influIndexVideo" transform="translate(334.3000030517578,1141.1000061035156)" style="opacity: 1;"><rect rx="0" ry="0" x="-146.5" y="-21.5" width="293" height="43"/><g class="label" transform="translate(0,0)"><g transform="translate(-136.5,-11.5)"><foreignObject width="273" height="23"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Index Video with Retreive and Rank</div></foreignObject></g></g></g></g></g></g><style type="text/css">.label { color: #000000 !important; } </style></svg>

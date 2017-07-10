@@ -10,8 +10,7 @@ graph TD;
 
     influATRetrieve[Retrieve and Rank Campaigns based on Entities]
 
-    influAdItems[Feed Video through Ad Collector Items]
-    influAdItemsFilter{Filter Passing Ad Collector Items}
+    influAdItemsFilter{Keep Ad Collector Items that are tagged}
 
     influIndexVideo[Index Video with Retreive and Rank]
 
@@ -26,9 +25,8 @@ graph TD;
     influVTag-- Entities -->influATRetrieve
     influATExtract-- Entities -->influATRetrieve
 
-    influVExtract-- Images -->influAdItems
-    influATRetrieve-- Ad Campaign -->influAdItems
-    influAdItems-- Ad Item -->influAdItemsFilter
+    influVTag-- Tags -->influAdItemsFilter
+    influATRetrieve-- Ad Campaign -->influAdItemsFilter
     influAdItemsFilter-- Collector Items -->influIndexVideo
 
     influATRetrieve-- Ad Campaign -->influIndexVideo

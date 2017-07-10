@@ -16,7 +16,7 @@ form.onsubmit = function(e){
   var data = new FormData();
   data.append("file", fileInput.files[0], fileInput.files[0].name);
   console.log(Array.from(data.entries()));
-  fetch("/extract-tag-data", {
+  fetch("http://localhost:8081/extract-meta-data", {
     method: "POST",
     header: {
       "Content-Type": "multipart/form-data"

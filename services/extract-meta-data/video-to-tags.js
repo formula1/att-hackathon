@@ -1,13 +1,10 @@
-var { inspect, promisify } = require("util");
 var fs = require("fs");
 var http = require("http");
 var https = require("https");
 var FormData = require("form-data");
 var concatStream = require("concat-stream");
 
-var credentials = require("./credentials");
-
-var { HTTP_PORT, INPUT_DIRECTORY, } = process.env;
+var credentials = require("./vrec-credentials");
 
 function getLengthOfVideo(video_location){
   return Promise.resolve().then(function(){
@@ -96,67 +93,18 @@ function getTagsForVideo(video_location, offset){
   });
 }
 
-var express = require("express");
-var { Router } = express;
-var multer = require("multer");
-
-var router = new Router();
-
-router.post("/extract-tag-data", multer({
-  dest: INPUT_DIRECTORY
-}).single("file"), function(req, res, next){
-  console.log(req.file);
-  if(!req.file) return next("no files");
-
-  getLengthOfVideo(req.file.path).then(function(duration){
+function videoToTags(inputfile){
+  return getLengthOfVideo(inputfile).then(function(duration){
     return runFile([], 0);
     function runFile(results, i){
-      return getTagsForVideo(req.file.path, i).then(function(result){
+      return getTagsForVideo(inputfile, i).then(function(result){
         results.push(result);
         console.log(i, duration);
         if(i < duration) return runFile(results, i + 0.5);
         return results;
       });
     }
-  }).then(function(json){
-    res.status(200).send(json);
-  }).catch(next);
-});
-
-router.post("/build-models-for-movies", multer({
-  dest: INPUT_DIRECTORY
-}).single("file"), function(req, res, next){
-  console.log(req.file);
-  if(!req.file) return next("no files");
-
-  getLengthOfVideo(req.file.path).then(function(duration){
-    return runFile([], 0);
-    function runFile(results, i){
-      return getTagsForVideo(req.file.path, i).then(function(result){
-        results.push(result);
-        console.log(i, duration);
-        if(i < duration) return runFile(results, i + 0.5);
-        return results;
-      });
-    }
-  }).then(function(json){
-    res.status(200).send(json);
-  }).catch(next);
-});
-
-router.use(function(err, req, res, next){
-  console.error(err);
-  res.status(500).send(inspect(err));
-});
-
-router.use(function(req, res, next){
-  res.status(404).send("not found");
-});
-
-if(!module.parent){
-  var server = express();
-  server.use(router);
-  server.listen(HTTP_PORT);
-} else {
-  module.exports = router;
+  });
 }
+
+module.exports = videoToTags;
